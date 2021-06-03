@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proceedings to sentence of death against Algernon Sidny, Esq, who was convicted of high-treason, (on the 21 of November 1683) at the Kings-bench-bar, for conspiring the death of the King, to subvert the government, &amp;c. being an account of what remarkably passed on that occasion.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55974</idno><idno type="EEBO-CITATION">12244426</idno>
+  <idno type="VID">56874</idno>
+  <idno type="EEBO-PROQUEST">2240955113</idno>
+  
+            <idno type="STC">Wing P3625A</idno>
+            <idno type="STC">ESTC R205560</idno>
+            <idno type="OCLC">12244426</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Proceedings to sentence of death against Algernon Sidny, Esq, who was convicted of high-treason, (on the 21 of November 1683) at the Kings-bench-bar, for conspiring the death of the King, to subvert the government, &amp;c. being an account of what remarkably passed on that occasion.</title>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langly Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Sidney, Algernon, 1622-1683.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56874:1"/>
+            <head>THE PROCEEDINGS to Sentence of Death, AGAINST Algernon Sidny Esq; Who was Convicted of HIGH-TREASON, (On the 21 of <hi>November</hi> 1683.) at the <hi>Kings-Bench-Bar,</hi> for Conspiring the Death of the King, to Subvert the Government, <hi>&amp;c.</hi> Being an Account of what Remarkably passed on that Occasion.</head>
+            <p>
+               <hi>ALgernon Sidny</hi> Esq; having on the seventh of this Instant, <hi>November,</hi> been Arraigned at the Barr of the Court of <hi>Kings-Bench,</hi> upon an Indictment of High-Treason found by the Grand Jurors, and thereto pleaded not Guilty; he on the 21 Instant was brought again to the said Barr in Order to his Tryal, where having made exceptions against some of the Jury, then Summoned to Try the Issue between the King and him, for not being Free-holders in the County, and against others, up<g ref="char:EOLhyphen"/>on divers other objections, a Jury of Twelve were Sworn, after he had Peremptorily Challenged 34 whereupon the Indictment was Read, and the Treason therein mention opened by the Kings Council, tending to the destruction of the King, the Suburtion of the Government, and the Establishing a Common-Wealth, by utterly Abolishing and Exterprating <hi>Monarchy;</hi> after which Mr. <hi>West,</hi> Collonel <hi>Rumsey,</hi> and Mr. <hi>Keeling</hi> being Sworn proved the Plot in general, and the Lord <hi>Howard</hi> in particular as to the Pri<g ref="char:EOLhyphen"/>soner proving him to have been at divers Consults consenting to a Rising and sending <hi>Aron Smith</hi> into <hi>Scotland,</hi> proposing a form of Government after Monarchy should be Suppressed, <hi>&amp;c.</hi> Then Sir <hi>Phillip Lloyd</hi> proved a Treasonable Libell found in the Prisoners House, tending to the depos<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of the King and Setling the Power in the People, with many other Treasonable Tenents and Assertions, which he denying; further proof was made by Mr. <hi>Shepherd,</hi> Mr. <hi>Cook,</hi> and Mr. <hi>Cary,</hi> Men that had had dealings with Mr. <hi>Sidny,</hi> that it was (as they verily believed) his Hand Writing, upon proof of these Treasons at large, notwithstanding the objections he made against the Lord <hi>Howards</hi> Evidence, and some discourses in Relation to the Pamphlet or Libell; He upon the Evidences being Summed up as well on the one side as the other, and the charge given, was found Guilty of High-Treason, and Remanded to the <hi>Tower.</hi>
+            </p>
+            <pb facs="tcp:56874:2"/>
+            <p>When the same week Mr. <hi>Attorny</hi> General on the part of the King, moved the Court (for judgment against him, whereupon a Rule was ordered to the Li<g ref="char:EOLhyphen"/>utenant of the <hi>Tower</hi> to bring him to the Barr on the 26 Instant, which being accordingly done, and Silence made; the Clark of the Crown bid him hold up his Hand, demanding (that since he had been Arraigned Tryed and Convicted of High-Treason) what he could say, why Judgment of Death should not be a<g ref="char:EOLhyphen"/>warded against him, as in that case the Law requires, whereupon he Aleadged that some of the Jury Were not Free-holders, as in such Cases (he said) they ought to be, to which objection the Court answered, that it had been over-rul<g ref="char:EOLhyphen"/>ed not only in the Case of the Lord <hi>Russel,</hi> but at his Tryal, and that it was the opinion of all the Judges in <hi>England,</hi> that in Cases of that Nature it was not necessary, whereupon he desired he might have Council to argue it, but was answered, that he had had the Courts opinion therein already, and that it could not by Law be granted, after which he desired his Indictment might be again Read in <hi>Latine,</hi> and time to consider of it, seeing he might not have a Coppy the former of which was granted the <hi>English,</hi> whereof was to this effect; that <hi>Algernoon Sidny,</hi> meaning the Prisoner at the Barr stood Indicted of High-Treason, for Conspiring the Death of the King, to Leavy Warr and Rebellion the Antient Government of the Kingdome, to subvert a miserable Slaugh<g ref="char:EOLhyphen"/>ter amongst his Majesties Subjects, to make and procure, and for that end he had Conspired with divers false Traytors promising to be Aiding and Assisting them in carrying on their wicked Designs: That he had sent one <hi>Aron Smith</hi> into <hi>Scotland,</hi> to stirr up the Evil minded People in that Kingdome to Insurrection and Rebellion, and had written, or caused to be written a false Scandalous Se<g ref="char:EOLhyphen"/>ditious and Treasonable Libel, tending to the deposing of the King the over<g ref="char:EOLhyphen"/>throw of <hi>Monarchy,</hi> setling the power in the People, Establishing a Common-Wealth, <hi>&amp;c.</hi> After the Indictment was Read, he urged some mistake in the Construction of a Word, and that he might have time to consider it, as to the former, he was answered, that the Treason in all particulars was plain, and as for the Latter the time was past, and that it only remained with the Court, seeing he had been fairly Convicted to pass Sentence; then he desired to be heard further, saying, he had points of Law to offer, but none appearing, an O Yes was made for silence, yet was he further heard, at what time he said, as to the Libel, it might have been writ Thirty years agoe, and that he could not con<g ref="char:EOLhyphen"/>ceive it affected him, seeing it was private and never Published, to that he was answered, that to write was to do, and nothing could more express the minds and Inclination of Men then that; and that it was an immagining and designing the Death of the King, and to subvert the Government, and therefore expresly Treason, <hi>&amp;c.</hi> Then he urged his Plea in writing, which he offered at his Ar<g ref="char:EOLhyphen"/>raignment was not received: To which the Court Replyed, that he might have put it in if he had thought fit to have ventured his Life upon it, and that it was the Courts Duty to Inform him what would Insue thereon. If Mr. <hi>Attorny</hi> Ge<g ref="char:EOLhyphen"/>neral not finding it a good Plea, should have demured to it, and that it was not to be imputed to the Court, that it was not put in, it being left to his Choice to do as he thought fit, after these and divers other objections made by the Prisoner, and they Amply answered by the Court, he was bid to harken to his Sentence, which was: That he <hi>Algernon Sidny</hi> the Prisoner at the Barr, should go to the place from whence he came, and from thence be drawn to the place of Execution, upon a <hi>Hurdle,</hi> there to be Hanged by the Neck, and being cut down Alive, his Bowels and Privy-Members to be Burnt before his Face, his Head to be severed from his Body, his Body divided into four Quarters, and they to be disposed of at the pleasure of the King. Sentence being passed he was Remanded to the <hi>Tower,</hi> and accordingly conveyed thither in a Coach, attended on by a strong Gaurd of Souldiers.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Entred according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langly Curtis,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
